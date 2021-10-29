@@ -12,16 +12,20 @@ Sᴇᴀʀᴄʜ Iɴʟɪɴᴇ Fᴀᴄɪʟɪᴛʏ Oʀ Pᴀsᴛᴇ Tʜᴇ YᴏᴜT�
 
 𝗝𝗼𝗶𝗻 <a href='https://t.me/Z_Bots'>𝗨𝗽𝗱𝗮𝘁𝗲𝘀</a> | 𝗘𝗱𝗶𝘁𝗼𝗿 <a href='https://github.com/madtoazenzio'>𝗖𝗹𝗶𝗰𝗸 𝗠𝗲 𝗧𝗼 𝗦𝗲𝗲 𝗠𝘆 𝗘𝗱𝗶𝘁𝗼𝗿</a>   
     """
-    WELCOME_MSG = "𝐇𝐞𝐥𝐥𝐨... {}\n𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
-    OPTIONS_TXT = "𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
-    RESULTS_TXT = "👀 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
-    NO_RESULTS = "❌ 𝐍𝐨 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
+    WELCOME_MSG = "𝗛𝗲𝗹𝗹𝗼...{}\n𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝗜𝗮𝗺 𝗔 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗩𝗶𝗱𝗲𝗼 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 📥 𝗕𝗼𝘁
+
+𝗬𝗼𝘂 𝗖𝗮𝗻 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗩𝗶𝗱𝗲𝗼𝘀 𝗙𝗿𝗼𝗺 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗔𝗻𝗱 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗛𝗮𝘃𝗲 𝗜𝗻𝗹𝗶𝗻𝗲 𝗙𝗮𝗰𝗶𝗹𝗶𝘁𝘆 𝗧𝗼 𝗦𝗲𝗮𝗿𝗰𝗵🔍 𝗩𝗶𝗱𝗲𝗼 𝗗𝗶𝗿𝗲𝗰𝘁𝗹𝘆 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺
+
+𝗠𝗮𝗱𝗲 𝗕𝘆 @Z_Bots"
+    OPTIONS_TXT = "𝗜 𝗖𝗮𝗻 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗩𝗶𝗱𝗲𝗼 𝗦𝗲𝗮𝗿𝗰𝗵 𝗜𝗻𝗹𝗶𝗻𝗲 .\n𝗔𝗻𝗱 𝗦𝗲𝗻𝗱 𝗟𝗶𝗻𝗸 𝗜 𝗦𝗲𝗻𝗱 𝗜𝘁 𝗧𝗵𝗲 𝗧𝗵𝗲 𝗩𝗶𝗱𝗲𝗼 𝗢𝗿 𝗔𝘂𝗱𝗶𝗼."
+    RESULTS_TXT = "👀 𝙍𝙚𝙨𝙪𝙡𝙩𝙨:"
+    NO_RESULTS = "❌ 𝗡𝗼 𝗥𝗲𝘀𝘂𝗹𝘁𝘀:"
     DESCRIPTION = "Duration: {} || {}"
-    NOT_AUTH_TXT = "❌ ❌ 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐧𝐨𝐭 𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐞𝐝 ❌ ❌"
-    DEFAULT_TITLE = "𝐈𝐧𝐥𝐢𝐧𝐞 𝐓𝐮𝐛𝐞 𝐌𝐚𝐭𝐞 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲"
+    NOT_AUTH_TXT = "❌ ❌ 𝙔𝙤𝙪 𝘼𝙧𝙚 𝙉𝙤𝙩 𝘼𝙪𝙩𝙝𝙤𝙧𝙞𝙨𝙚𝙙 ❌ ❌"
+    DEFAULT_TITLE = "Inline YouTube Video Downloader Bot"
     DEFAULT_THUMB_URL = "https://image.flaticon.com/icons/png/512/25/25231.png"
-    DEFAULT_LINK = "https://github.com/m4mallu"
-    DEFAULT_DESCRIPTION = "𝐋𝐢𝐧𝐤: 𝐌𝟒𝐌𝐚𝐥𝐥𝐮 | 𝐆𝐢𝐭𝐇𝐮𝐛"
+    DEFAULT_LINK = "https://t.me/Z_Bots"
+    DEFAULT_DESCRIPTION = "𝗟𝗶𝗻𝗸 𝗭 𝗕𝗼𝘁𝘀 | TG UPDATES"
     DEV_TITLE = "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧"
     DEV_THUMB_URL = "https://freepikpsd.com/media/2019/10/software-developer-icon-png-2-Transparent-Images.png"
     DEV_LINK = "https://t.me/space4renjith"
