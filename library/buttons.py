@@ -34,7 +34,7 @@ del_thumb = [
 
 join_channel = [
     [
-        InlineKeyboardButton('⚙ Join Updates', url='https://telegram.me/RMProjects'),
+        InlineKeyboardButton('⚙ Join Updates', url='https://t.me/Z_Bots'),
         InlineKeyboardButton('Search Inline', switch_inline_query_current_chat='')
     ]
 ]
