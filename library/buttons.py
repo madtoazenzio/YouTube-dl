@@ -16,7 +16,7 @@ start_btn = [
     ],
     [
         InlineKeyboardButton('Help', callback_data='help_btn'),
-        InlineKeyboardButton('Support', url='t.me/RMProjects')
+        InlineKeyboardButton('Support', url='t.me/z_bots_support7')
     ],
     [
         InlineKeyboardButton('Close', callback_data='close_btn'),
