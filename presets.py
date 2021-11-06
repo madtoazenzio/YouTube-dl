@@ -28,7 +28,7 @@ Sᴇᴀʀᴄʜ Iɴʟɪɴᴇ Fᴀᴄɪʟɪᴛʏ Oʀ Pᴀsᴛᴇ Tʜᴇ YᴏᴜT�
     DEFAULT_DESCRIPTION = "𝗟𝗶𝗻𝗸 𝗭 𝗕𝗼𝘁𝘀 | TG UPDATES"
     DEV_TITLE = "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧"
     DEV_THUMB_URL = "https://freepikpsd.com/media/2019/10/software-developer-icon-png-2-Transparent-Images.png"
-    DEV_LINK = "https://t.me/space4renjith"
+    DEV_LINK = "https://github.com/madtoazenzio"
     DEV_DESCRIPTION = "𝐍𝐚𝐦𝐞: Mad To AzenZio | Bot Devloper Editor"
     SHARE_BUTTON_TEXT = "𝙃𝙞..  👋\n𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 : @{username}\n𝐅𝐨𝐫 𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬"
     SAVED_THUMB = "<b>✅ Thumbnail Saved Successfully</b>\n<code>This file will be used in next YouTube " \
@@ -65,7 +65,7 @@ Sᴇᴀʀᴄʜ Iɴʟɪɴᴇ Fᴀᴄɪʟɪᴛʏ Oʀ Pᴀsᴛᴇ Tʜᴇ YᴏᴜT�
     """
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
-    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Credits- </b><b><a href='https://t.me/RMProjects'>@RMProjects</a></b>"
+    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Credits- </b><b><a href='https://t.me/Z_Bots'>@Z_Bots</a></b>"
     RCHD_TG_API_LIMIT = "Detected File Size: {}\nSorry. But, I cannot upload files " \
                         "greater than 1.95GB due to Telegram API limitations."
     AD_STRING_TO_REPLACE = "please report this issue on https://yt-dl.org/bug . Make sure you are using the " \
